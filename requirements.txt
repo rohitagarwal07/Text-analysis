@@ -1,0 +1,10 @@
+streamlit==1.26.0
+speechrecognition==3.10.0
+numpy==1.26.0
+textblob==0.17.1
+pandas==2.1.0
+wordcloud==1.9.2
+matplotlib==3.8.0
+st-audiorec==0.1.4
+nltk==3.8.1
+fpdf==1.7.2
